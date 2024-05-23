@@ -1,6 +1,6 @@
 body {
-  font-size: 38px;
-  /* font-size: 18px; */
+/*   font-size: 38px; */
+  font-size: 18px;
   font-family: "Freeman", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -49,9 +49,9 @@ a:hover {
 }
 
 @media (max-width: 1200px) {
-  body {
+/*   body {
     font-size: 18px;
-  }
+  } */
 
   .container {
     width: 700px;
